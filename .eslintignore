@@ -1,7 +1,0 @@
-node_modules/
-dist/
-
-**/dist/**/*.js
-**/docs/**/*.js
-**/build/**/*.js
-**/*.d.ts
